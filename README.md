@@ -6,7 +6,7 @@
 
 Being a linux user we have to face the problem of poor wifi signals everyday, and lan wire restricts our free movement. The list of problems are many but in short-
 
-This repository is the end to weak wifi signal problem.
+This repository is the end to weak wifi signal problem. This problem mostly comes in HP laptops.
 
 ## Steps:
 
