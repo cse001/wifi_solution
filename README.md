@@ -44,3 +44,8 @@ Acknowledgements to all the real creators
 
 [Source](https://connectwww.com/how-to-solve-realtek-rtl8723be-weak-wifi-signal-problem-in-ubuntu/4625/)
 
+
+## Contributers
+Abhishek Gautam
+Aaditya Gupta
+Atharva Parwatkar
